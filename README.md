@@ -40,7 +40,7 @@
 
 Have you ever felt **anxious** after sending important information for temporary use?
 
-1Secret is a web application that lets you share temporary secret links for passwords and sensitive information. It's like snapchat for secrets.
+1Secret is a web application that lets you share temporary secret links for passwords and sensitive information. It's like snapchat for secrets. Go ahead and share your passwords safely and securely with time-sensitive, shareable links. You control how others can access your shared information outside of 1Password.
 
 <img src="images/breakdown.png">
 
